@@ -16,13 +16,6 @@
 
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
-<br>  
-<div align="center">
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
-</div>
-<br>
-
-
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
 
@@ -52,6 +45,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
+
+
 </div>
 
 
+<div align="center">
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
+</div>
