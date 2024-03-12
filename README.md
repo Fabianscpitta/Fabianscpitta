@@ -26,7 +26,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 <br> 
 <h1>Acerca de mí 😎</h1>
 
-- 🤖 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
+- 👔 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
 - 🤝 Estoy buscando colaborar con cualquier proyecto de "front-end o back-end".
 - 📖 estoy aprendiendo "Python, Javascript, React".
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪".
@@ -47,7 +47,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 </p>
 
 <div>
-<h1>Lenguajes y Herramientas:</h1>
+<h1>Lenguajes y Herramientas 🤖</h1>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
