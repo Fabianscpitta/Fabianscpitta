@@ -45,11 +45,6 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software;Analista+de+software;Manejo+de+bases+de+datos" alt="Typing SVG" /></a>
 </p>
-<br>
-
-
-<br>
-  
 
 <div align="center">
 <h3 align="center">Lenguajes y Herramientas:</h3>
@@ -57,18 +52,4 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
 
-
-
 </div>
-
-
-
-
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
-
-</a> 
-
