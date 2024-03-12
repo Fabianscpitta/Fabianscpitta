@@ -46,7 +46,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 </a>  
 
-<br><br><br>
+<br><br><br><br><br>
 <div>
 <h1>Lenguajes y Herramientas 🤖</h1>
 
