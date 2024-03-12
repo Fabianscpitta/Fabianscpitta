@@ -28,7 +28,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <br> 
 <h1>Acerca de mí 😎</h1>
-
+<br>
 - 👔 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
 - 🤝 Estoy buscando colaborar con cualquier proyecto de "front-end o back-end".
 - 📖 estoy aprendiendo "Python, Javascript, React".
@@ -37,6 +37,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <br><br>
 <h1>Proyectos ✏️</h1>
+<br>
 <a href="https://github.com/Fabianscpitta/MyBog">
 
   <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
@@ -47,7 +48,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <br><br>
 <div>
-<h1 style="color:blue;">Lenguajes y Herramientas 🤖</h1>
+<h1>Lenguajes y Herramientas 🤖</h1>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
