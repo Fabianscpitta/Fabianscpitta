@@ -41,11 +41,11 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" />
 
 </a>  
-<br><br><br>
+<br><br><br><br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software;Analista+de+software;Manejo+de+bases+de+datos" alt="Typing SVG" /></a>
 </p>
-
+<br><br>
 <div>
 <h1>Lenguajes y Herramientas 🤖</h1>
 <br>
