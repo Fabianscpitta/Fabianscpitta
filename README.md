@@ -37,6 +37,13 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software;Analista+de+software;Manejo+de+bases+de+datos" alt="Typing SVG" /></a>
 </p>
 <br>
+<a href="https://github.com/Fabianscpitta/MyBog">
+
+  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" />
+
+</a>  
 
 <br>
 <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> <br>
@@ -53,13 +60,6 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 </div>
 
-<a href="https://github.com/Fabianscpitta/MyBog">
-
-  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" />
-
-</a>  
 
 
 
