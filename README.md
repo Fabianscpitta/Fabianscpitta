@@ -5,7 +5,7 @@
 <div align="center">
 <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5uang5OTE0dm1obG5mMWIwYzh1eG0xODRoNTM4NHZtZGxnb24wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"> 
 </div>
-<br>
+<br><br>
 
 Soy estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el análisis y desarrollo de software. Mi interés por la tecnología y la programación me ha llevado a estudiar esta carrera, donde estoy constantemente aprendiendo y desarrollando nuevas habilidades. Fuera del mundo de la tecnología, disfruto explorar mi ciudad, pasar tiempo con amigos y familiares, y seguir aprendiendo sobre una variedad de temas. Mi objetivo es convertirme en un profesional de la tecnología que pueda contribuir de manera significativa al mundo digital.
 
