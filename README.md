@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">Soy un apasionado desarrollador Front-End en Colombia </h3> <br> 
 
-- 🤖 Actualmente estoy trabajando en la "Pontificia Universidad Javeriana"
+- 🤖 Actualmente estoy trabajando en "Pontificia Universidad Javeriana"
 
 - 📖 Actualmente estoy aprendiendo "Python, Javascript, React"
 
