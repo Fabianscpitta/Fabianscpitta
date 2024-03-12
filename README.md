@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, Mi nombre es Fabian <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Un apasionado desarrollador de Python y Front-End de Colombia 🇨🇴</h3>
+<h3 align="center">Soy un apasionado desarrollador de Front-End en Colombia </h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🤖 Actualmente estoy trabajando en la "Pontificia Universidad Javeriana"
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 📖 Actualmente estoy aprendiendo "Python, Javascript, React"
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 🤝 Busco colaborar en "proyectos front-end y back-end"
 
-- 📫 How to reach me: **brantlauro@gmail.com**
+- 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com"
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ Lo que me gusta hacer: "Me gusta mucho leer📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
