@@ -28,7 +28,7 @@ Soy estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el a
 </p>
 <br><br>
 
-<h3 color=Red align="center">Conectate conmigo:</h3>
+<h3 align="center" style="color: #F70000FF;">Conéctate conmigo:</h3>
 <div align="center">
 <br>
   
