@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Fabian <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Soy un apasionado desarrollador de Front-End en Colombia </h3>
+<h3 align="center">Soy un apasionado desarrollador Front-End en Colombia </h3>
 
 
 - 🤖 Actualmente estoy trabajando en la "Pontificia Universidad Javeriana"
