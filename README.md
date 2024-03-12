@@ -15,7 +15,7 @@ Soy estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el a
 
 - 🤝 Busco colaborar en "proyectos front-end y back-end"
   
-- 📖 Actualmente estoy aprendiendo "Python, Javascript, React"
+- 📖 estoy aprendiendo "Python, Javascript, React"
 
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
