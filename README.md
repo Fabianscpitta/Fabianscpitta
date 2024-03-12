@@ -35,9 +35,9 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪".
 - 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com".
 
-<br><br>
+<br><br><br>
 <h1>Proyectos ✏️</h1>
-<br>
+
 <a href="https://github.com/Fabianscpitta/MyBog">
 
   <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
@@ -46,10 +46,10 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 </a>  
 
-<br><br>
+<br><br><br>
 <div>
 <h1>Lenguajes y Herramientas 🤖</h1>
-<br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
 
