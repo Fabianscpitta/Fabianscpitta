@@ -55,16 +55,18 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <a href="https://github.com/Fabianscpitta/MyBog">
 
+  <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=tokyonight" />
+
+</a>  
+
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github.com/Fabianscpitta/MyBog&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
 
-</a>">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
-
-</a>
-
+</a> 
 
