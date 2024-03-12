@@ -41,7 +41,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
   <!-- Cambia `github-readme-stats.anuraghazra1.vercel.app` a `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" alt="MyBog - Un proyecto increíble para ..." />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" />
 
 </a>  
 
