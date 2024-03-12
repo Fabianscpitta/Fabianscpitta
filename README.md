@@ -1,4 +1,4 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola%2C+Soy+Fabian" alt="Typing SVG" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola%2C+Soy+Fabian" alt="Typing SVG" /></a></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola%2C+Soy+Fabian" alt="Typing SVG" /><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 
 <div align="center">
