@@ -16,6 +16,7 @@
 
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
+<br>
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
 
@@ -25,9 +26,10 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianscpitta@gmail.com)
 [![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/fatbalugalol)
 
-
+<br>
 <br>
 <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
+<br>
 <br>
   
 
