@@ -19,7 +19,7 @@
 <br>
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
-
+<br>
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-carvajal-793b0b2b9/)
 [![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabian_stiven44/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fatbalugalol)
@@ -34,7 +34,7 @@
 
 
 <h3 align="center">lenguajes y herramientas:</h3>
-
+<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
 
 
