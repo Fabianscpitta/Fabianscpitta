@@ -26,7 +26,7 @@
 Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el desarrollo de software. Mi interés por la tecnología y la programación me ha llevado a estudiar esta carrera, donde estoy constantemente aprendiendo y desarrollando nuevas habilidades. Fuera del mundo de la tecnología, disfruto pasar tiempo con amigos y familiares, y seguir aprendiendo sobre una variedad de temas. Mi objetivo es convertirme en un profesional de la tecnología que pueda contribuir de manera significativa al mundo digital.
 
 
-<br> 
+<br><br>
 <h1>Acerca de mí 😎</h1>
 
 - 👔 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
