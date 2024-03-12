@@ -18,7 +18,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianscpitta@gmail.com)
 [![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/fatbalugalol)
 </div>
-<br><br>
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software;Manejo+de+bases+de+datos" alt="Typing SVG" /></a>
 </p>
