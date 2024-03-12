@@ -10,7 +10,7 @@
 
 - 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com"
 
-- ⚡ Lo que me gusta hacer: "Me gusta mucho leer📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
+- ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
