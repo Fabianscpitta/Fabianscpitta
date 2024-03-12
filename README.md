@@ -18,11 +18,11 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianscpitta@gmail.com)
 [![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/fatbalugalol)
 </div>
-<br><br><br>
+<br><br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software;Analista+de+software;Manejo+de+bases+de+datos" alt="Typing SVG" /></a>
 </p>
-<br><br><br>
+<br><br>
 Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el desarrollo de software. Mi interés por la tecnología y la programación me ha llevado a estudiar esta carrera, donde estoy constantemente aprendiendo y desarrollando nuevas habilidades. Fuera del mundo de la tecnología, disfruto pasar tiempo con amigos y familiares, y seguir aprendiendo sobre una variedad de temas. Mi objetivo es convertirme en un profesional de la tecnología que pueda contribuir de manera significativa al mundo digital.
 
 
