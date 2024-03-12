@@ -28,7 +28,7 @@
 
 <br>
 <br>
-<img border-radius: 30px; height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
+<img style="border-radius: 30px;" height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
 <br>
 <br>
   
