@@ -36,16 +36,17 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 - 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com".
 
 <br><br><br>
-<h1>Proyectoos ✏️</h1>
+<h1>Proyectos ✏️</h1>
 
 <a href="https://github.com/Fabianscpitta/Mybog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Mybog&theme=algolia" />
 </a>  
 
 
-<a href="https://github.com/Fabianscpitta/Reservas_hoteles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Reservas_hoteles&theme=tokyonight" />
+<a href="https://github.com/Fabianscpitta/Reservas_hoteles.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Reservas_hoteles" />
 </a>
+
 
 
 
