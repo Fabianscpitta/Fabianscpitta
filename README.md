@@ -28,7 +28,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <br> 
 <h1>Acerca de mí 😎</h1>
-<br>
+
 - 👔 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
 - 🤝 Estoy buscando colaborar con cualquier proyecto de "front-end o back-end".
 - 📖 estoy aprendiendo "Python, Javascript, React".
