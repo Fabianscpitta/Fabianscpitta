@@ -45,7 +45,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=MyBog&theme=algolia" />
 
 </a>
-<a href="https://github.com/Fabianscpitta/Mybog">
+<a href="https://github.com/Fabianscpitta/Reservas_hoteles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Reservas_hoteles&theme=algolia" />
 </a>  
 
