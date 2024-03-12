@@ -6,6 +6,18 @@
 <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5uang5OTE0dm1obG5mMWIwYzh1eG0xODRoNTM4NHZtZGxnb24wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"> 
 </div>
 <br><br>
+<h3 align="center" style="color: #F70000;">Conéctate conmigo:</h3>
+
+
+<div align="center">
+<br>
+  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-carvajal-793b0b2b9/)
+[![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabian_stiven44/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fatbalugalol)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianscpitta@gmail.com)
+[![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/fatbalugalol)
+<br>
 
 Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el desarrollo de software. Mi interés por la tecnología y la programación me ha llevado a estudiar esta carrera, donde estoy constantemente aprendiendo y desarrollando nuevas habilidades. Fuera del mundo de la tecnología, disfruto pasar tiempo con amigos y familiares, y seguir aprendiendo sobre una variedad de temas. Mi objetivo es convertirme en un profesional de la tecnología que pueda contribuir de manera significativa al mundo digital.
 
@@ -25,19 +37,6 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 </p>
 <br>
 
-<h3 align="center" style="color: #F70000;">Conéctate conmigo:</h3>
-
-
-<div align="center">
-<br>
-  
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-carvajal-793b0b2b9/)
-[![image](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabian_stiven44/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fatbalugalol)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianscpitta@gmail.com)
-[![image](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/fatbalugalol)
-
-<br>
 <br>
 <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> <br>
 <br>
