@@ -47,7 +47,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 
 <br><br>
 <div>
-<h1>Lenguajes y Herramientas 🤖</h1>
+<h1 style="color:blue;">Lenguajes y Herramientas 🤖</h1>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,py,mongodb,mysql,vscode,github,figma,discord)](https://skillicons.dev)
