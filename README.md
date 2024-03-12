@@ -16,6 +16,12 @@
 
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
 
+  
+<div align="center">
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBycDhtenAxNDdsZjY1ZWloenFicjAyZDV2N2VtejR6dmZwdWtpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9E40ePI5P22Wngf4mA/giphy.gif"> 
+</div>
+
+
 <h3 align="center">Conectate conmigo:</h3>
 <div align="center">
 
