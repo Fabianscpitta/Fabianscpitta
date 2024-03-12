@@ -24,7 +24,7 @@ Soy estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el a
 
 <br><br>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+de+software" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=300&lines=Desarrollador+de+software" alt="Typing SVG" /></a>
 </p>
 <br><br>
 
