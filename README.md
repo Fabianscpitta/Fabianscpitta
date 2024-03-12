@@ -13,13 +13,13 @@ Soy estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por el a
 
 - 🤖 Actualmente estoy trabajando en "Pontificia Universidad Javeriana"
 
+- 🤝 Busco colaborar en "proyectos front-end y back-end"
+  
 - 📖 Actualmente estoy aprendiendo "Python, Javascript, React"
 
-- 🤝 Busco colaborar en "proyectos front-end y back-end"
-
-- 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com"
-
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪."
+
+- - 📫Me pueden contactar atra vez de este correo: "fabianscpitta@gmail.com"
 
 <br>
 <h3 align="center">Conectate conmigo:</h3>
