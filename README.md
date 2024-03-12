@@ -1,5 +1,5 @@
 <div align="center">
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=40&pause=1000&random=false&width=200&lines=Hola%2C+Soy+Fabian" alt="Typing SVG" /><img height="50"  src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=240&lines=Hola%2C+Soy+Fabian" alt="Typing SVG" /><img height="50"  src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 </div>
 
 <div align="center">
