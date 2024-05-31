@@ -39,17 +39,15 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 <h1>Proyectos ✏️</h1>
 
 
-
-<a href="https://github.com/Fabianscpitta/Mybog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Mybog&theme=blueberry" width="400" />
-</a>  
-
-<a href="https://github.com/Fabianscpitta/Reservas_hoteles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Reservas_hoteles&theme=blueberry" width="360"/>
-</a>
 <a href="https://github.com/Fabianscpitta/Proyecto_Musica">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Proyecto_Musica&theme=blueberry" width="400" />
 </a>
+<a href="https://github.com/Fabianscpitta/Reservas_hoteles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Reservas_hoteles&theme=blueberry" width="360"/>
+</a>
+<a href="https://github.com/Fabianscpitta/Mybog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Mybog&theme=blueberry" width="400" />
+</a>  
 <a href="https://github.com/Fabianscpitta/Certificados_PDF">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fabianscpitta&repo=Certificados_PDF&theme=blueberry" width="400" />
 </a>
