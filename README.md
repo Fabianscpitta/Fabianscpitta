@@ -29,7 +29,7 @@ Soy un estudiante de 19 años que vive en Bogotá-Colombia, soy apasionado por e
 <br><br>
 <h1>Acerca de mí 😎</h1>
 
-- 👔 Actualmente estoy trabajando en "Pontificia Universidad Javeriana".
+- 👔 Actualmente estoy trabajando en "Colegio Hacienda Los Alcaparros".
 - 🤝 Estoy buscando colaborar con cualquier proyecto de "front-end".
 - 📖 estoy aprendiendo "Python, Javascript, React".
 - ⚡ Lo que me gusta hacer: "Me gusta leer mucho📚, pasar tiempo de calidad con mi familia👨‍👩‍👧‍👦, comer hamburguesas🍔, ir al gimnasio💪".
